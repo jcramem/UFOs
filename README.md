@@ -12,4 +12,6 @@ For example, in the image below you see one criteria entered - a date - and the 
 
 ## Summary
 
+Although this web page provides a good start to analyzing these data, it is understood that these data are limited in scope given the amount of sightings that have been reported. In the future, anticipate an enhancement that will allow for additional data to be collected and verified so that the repository can become more comprehensive. Plus, the addition of a moderated user forum is being considered that will allow users to provide more detail and discussion about sightings. Until hen, keep your eyes toward the skies. 
+
 
